@@ -1,5 +1,9 @@
 # SISTEMAS-DESENVOLVIDOS-INFORMATICA
 Sistemas desenvolvidos na área de informática
+Equipe de Desenvolvimento:
+1  Alves Lemos António José Artur 
+2  Ema Domingos Juma 
+3 Pedro Robath 
 
 O Sistema de Gestão de Eventos é uma plataforma desenvolvida para facilitar a criação, organização e controlo de eventos académicos ou sociais.
 A aplicação permite que administradores criem eventos, gerenciem participantes e controlem inscrições de forma organizada. Os utilizadores podem se inscrever em eventos, receber confirmações e emitir certificados em formato PDF.
